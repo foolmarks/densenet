@@ -4,7 +4,7 @@
 
 ## Requirements
 
-+ Internet connection for downlaoding CIFAR10 dataset and TensorFlow docker image.
++ Internet connection for downloading CIFAR10 dataset and TensorFlow docker image.
 + Docker and Nvidia runtime installed as described on [TensorFlow website](https://www.tensorflow.org/install/docker)
 
 
